@@ -14,23 +14,20 @@ Source: UK Department of Transportation:
 
 Questions: 
 
-1. Which type of roads contain the highest number of accidents? 
-    (could use google maps api to make heat map of areas with highest amounts of accidents)
-2. Which types of vehicles have the highest number of accidents and worst severity? 
-3. Is there a particular day of the week and time with a higher number of accidents? 
-    (Monday after 5 vs Friday after 5)
-4. Does higher amount of horsepower correlate to higher risk of accidents? 
-5. How does age and sex affect risk of accident and severity? 
-    (could bin ages to inexperienced, moderately experienced, experienced, senior citizen)
-6. Do bigger vehicles correlate to higher rate of casualties/severity? 
-    (Are motorcycles/mopeds more dangerous?)
-7. Does purpose of trip affectt risk of accident? 
-8. Do lighting conditions (time of day) have an effect on accidents and severity? 
-    (daylight vs darkness)
-9. Which type of vehicles maneuvers cause the most accidents? 
-    (see vehicle maneuver context csv)
-10. How do different types of intersections effect risk of accident and severity? 
-11. Do older vehicles have any type of effect on accidents? 
+1. How many accidents occur each year?
+2. How many casualties occur each year?
+3. What counties have the most accidents?
+4. Which type of roads contain the highest number of accidents?
+5. Which types of vehicles have the highest number of accidents and worst severity?
+6. Is there a particular day of the week with a higher number of accidents? 
+7. Does higher amount of horsepower correlate to higher risk of accidents?
+8. How does age and sex affect risk of accident and severity? 
+9. Do bigger vehicles correlate to higher rate of casualties/severity? 
+10. Does purpose of trip affect risk of accident?
+11. Do lighting conditions have an effect on accidents and severity? 
+12. Which type of vehicle maneuvers cause the most accidents? 
+13. How do different types of intersections effect risk of accident and severity?
+
 
 
 
